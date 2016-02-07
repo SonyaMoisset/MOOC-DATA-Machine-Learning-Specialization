@@ -23,3 +23,13 @@ Learning Outcomes:  By the end of this course, you will be able to:
 - Getting started with the tools for the course
 - Getting started with Python and the IPython Notebook
 - Getting started with SFrames for data engineering and analysis
+
+#### Week 2
+##### Regression: Predicting House Prices
+- Linear regression modeling
+- Evaluating regression models
+- Summary of regression
+- Predicting house prices: IPython Notebook
+- Programming assignment
+- Quiz: Regression | 100%
+- Quiz: Predicting house prices | 70%
