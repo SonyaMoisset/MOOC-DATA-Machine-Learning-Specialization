@@ -13,4 +13,4 @@ This Specialization provides a case-based introduction to the exciting, high-dem
 ## Updates
 ### 07/02/2016
 - Enrolled in the program
-- Finished Week 1 | HTML & CSS in Course 1 | Machine Learning Foundations: A Case Study Approach
+- Finished Week 1 | Welcome in Course 1 | Machine Learning Foundations: A Case Study Approach
