@@ -43,4 +43,4 @@ Learning Outcomes:  By the end of this course, you will be able to:
 - Analyzing sentiment: IPython Notebook
 - Programming assignment
 - Quiz: Classification | 100%
-- Quiz: Analyzing product sentiment | 73%
+- Quiz: Analyzing product sentiment | 100%
