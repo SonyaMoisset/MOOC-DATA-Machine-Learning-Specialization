@@ -33,3 +33,14 @@ Learning Outcomes:  By the end of this course, you will be able to:
 - Programming assignment
 - Quiz: Regression | 100%
 - Quiz: Predicting house prices | 100%
+
+
+#### Week 3
+##### Classification: Analyzing Sentiment
+- Classification modeling
+- Evaluating classification models
+- Summary of classification
+- Analyzing sentiment: IPython Notebook
+- Programming assignment
+- Quiz: Classification | 100%
+- Quiz: Analyzing product sentiment | 73%
