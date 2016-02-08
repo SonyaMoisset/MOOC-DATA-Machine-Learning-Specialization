@@ -32,4 +32,4 @@ Learning Outcomes:  By the end of this course, you will be able to:
 - Predicting house prices: IPython Notebook
 - Programming assignment
 - Quiz: Regression | 100%
-- Quiz: Predicting house prices | 70%
+- Quiz: Predicting house prices | 100%
